@@ -1,0 +1,14 @@
+[flake8]
+exclude = (
+    .git,
+    .gitignore,
+    .flake8,
+    .pre-commit-config.yaml,
+    .env,
+    __init__.py,
+    README.md
+    poetry.lock,
+    pyproject.toml,
+    */response_example/*
+)
+max-line-length = 79
