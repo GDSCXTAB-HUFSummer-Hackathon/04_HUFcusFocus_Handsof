@@ -1,0 +1,79 @@
+# Common
+
+## Mac OS
+.DS_Store
+
+## IDLE
+.vscode/
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+## Configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# Backend
+
+## Build
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+## STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+# Frontend
+
+## Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+
+## Test
+/coverage
+
+## Production
+/build
+
+## Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Machine Learning
+
+## Cache
+.mypy_cache
+__pycache__
