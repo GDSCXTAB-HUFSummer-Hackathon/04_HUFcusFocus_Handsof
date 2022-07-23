@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+</body>
+<script>
+    let message = (function () {
+        let documentSetting = function () {
+            messageList();
+        }
+        //메시지 데이터 조회 api (TEST)
+        let messageList = function () {
+            let userId = "62dbd9ba9e804cba2f19ea16"
+            $.ajax({
+                url: "/chat/slacks/"+userId,
+                type: "get",
+                contentType: "json",
+                success:function (slackDtos) {
+                    console.log(slackDtos)
+                }
+            });
+        }
+        return {
+            init:documentSetting
+        }
+    })();
+    $(document).ready(function () {
+        message.init()
+    })
+</script>
+</html>

@@ -1,0 +1,18 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:A7gfiM5IWkXf39sE@handsof.whkyrsd.mongodb.net/?retryWrites=true&w=majority
+      port: 27017
+      database: "handsof"
+  mustache:
+    charset: UTF-8
+    servlet:
+      expose-request-attributes: true
+      expose-session-attributes: true
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
