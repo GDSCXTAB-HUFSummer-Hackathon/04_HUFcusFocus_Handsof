@@ -30,7 +30,7 @@
 <table>
 <tr>
     <td align="center"><a href="https://github.com/jangjia01234"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>디자이너 : 장지아</b></sub></a></td>
-    <td align="center"><a href="https://github.com/hgene0929"><img src="https://avatars.githubusercontent.com/u/61545957?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 김성중</b></sub></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/61545957?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 김성중</b></sub></a></td>
     <td align="center"><a href="https://github.com/hgene0929"><img src="https://avatars.githubusercontent.com/u/90823532?v=4" width="100px;" alt=""/><br /><sub><b>백엔드 : 이현진</b></sub></a></td>         
     <td align="center"><a href="https://github.com/0417taehyun"><img src="https://avatars.githubusercontent.com/u/63915557?v=4" width="100px;" alt=""/><br /><sub><b>머신러닝 : 이태현</b></sub></a></td>
 
@@ -95,12 +95,12 @@
 
 구현된 기능은 아래와 같습니다.
 
-:sparkles: Slack 연동 기능
-:sparkles: 수어 실시간 번역 기능
-:sparkles: 본인이 전송한 메세지 조회 기능
-:sparkles: 메시지 전송이 가능한 Slack 채널 조회 기능
-:sparkles: 메시지 전송이 가능한 Slack 사용자 조회 기능
-:sparkles: Slack 내 특정 채널 및 사용자에게 메세지 전송 기능
+- :sparkles: Slack 연동 기능
+- :sparkles: 수어 실시간 번역 기능
+- :sparkles: 본인이 전송한 메세지 조회 기능
+- :sparkles: 메시지 전송이 가능한 Slack 채널 조회 기능
+- :sparkles: 메시지 전송이 가능한 Slack 사용자 조회 기능
+- :sparkles: Slack 내 특정 채널 및 사용자에게 메세지 전송 기능
 
 ### 설계 :rocket:
 
@@ -120,11 +120,11 @@
 
 사용한 기술 스택은 아래와 같습니다.
 
-- ReactJS
 - Electron
+- ReactJS
 - TypeScript
-- GitHub Actions
 - styled-components
+- GitHub Actions
 - AWS : S3, CloudFront, Certificate Manager, Route 53
 
 #### 백엔드
@@ -133,10 +133,10 @@
 
 사용한 기술 스택은 아래와 같습니다.
 
-- Nginx
 - Spring
 - MongoDB
 - AWS : EC2, Route 53
+- Nginx
 
 #### 머신러닝
 
@@ -144,13 +144,14 @@
 
 사용한 기술 스택은 아래와 같습니다.
 
-- Nginx
+
 - FastAPI
 - MongoDB
 - Slack API
+- AWS : EC2, S3, Route 53
+- Nginx
 - ReactJS
 - TensorflowJS
-- AWS : EC2, S3, Route 53
 
 특히 Slack API를 활용한 메세지 전송의 경우 오번역된 경우 등에 대한 송수신 사용자 양방향 인지를 위해 핸즈오프 서비스를 통해 전송된 메세지임을 알려주는 헤더를 추가했습니다.
 
