@@ -1,6 +1,6 @@
 ![Main Image](./Images/00.png)
 
-> 본 프로젝트는 2022년 07월 23일 토요일부터 07월 24일 일요일까지 한국외국어대학교 AI 교육원, GDSC HUFS, 그리고 TAB에서 주최하여 진행한 제 1회 HUFSummer Hackathon 출제작입니다.
+> 본 프로젝트는 2022년 07월 23일 토요일부터 07월 24일 일요일까지 한국외국어대학교 AI 교육원, GDSC HUFS, 그리고 TAB에서 주최하여 진행한 제 1회 HUFSummer Hackathon 출품작입니다.
 
 ## 목차 :books:
 
@@ -30,7 +30,7 @@
 <table>
 <tr>
     <td align="center"><a href="https://github.com/jangjia01234"><img src="https://avatars.githubusercontent.com/u/71865277?v=4" width="100px;" alt=""/><br /><sub><b>디자이너 : 장지아</b></sub></a></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/61545957?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 김성중</b></sub></a></td>
+    <td align="center"><a href="https://github.com/joseph-106"><img src="https://avatars.githubusercontent.com/u/61545957?v=4" width="100px;" alt=""/><br /><sub><b>프론트엔드 : 김성중</b></sub></a></td>
     <td align="center"><a href="https://github.com/hgene0929"><img src="https://avatars.githubusercontent.com/u/90823532?v=4" width="100px;" alt=""/><br /><sub><b>백엔드 : 이현진</b></sub></a></td>         
     <td align="center"><a href="https://github.com/0417taehyun"><img src="https://avatars.githubusercontent.com/u/63915557?v=4" width="100px;" alt=""/><br /><sub><b>머신러닝 : 이태현</b></sub></a></td>
 
