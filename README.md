@@ -106,7 +106,7 @@
 
 #### 디자인
 
-> 더 자세한 UI 작업물은 [피그마](https://www.figma.com/file/eNANuNZkiBfo0qw6KuEROU/Hufsummer-Hackathon_220723?node-id=40%3A7914)에서 확인 가능합니다.
+> 더 자세한 UI 작업물은 [피그마](https://www.figma.com/file/eNANuNZkiBfo0qw6KuEROU/Hufsummer-Hackathon_220723?node-id=40%3A7915)에서 확인 가능합니다.
 
 텍스트에 어려움을 느끼는 청각장애인 분들의 원활한 서비스 사용을 위해 직관적인 아이콘 및 시각적 기표를 사용하여 그들의 사용자 경험, 다시 말해 UX(User Experience)를 개선하려 노력했습니다.
 
