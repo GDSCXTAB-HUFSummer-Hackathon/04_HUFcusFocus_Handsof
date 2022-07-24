@@ -47,21 +47,13 @@
 
 2020년 기준 2019년 대비 약 530% 성장, 향후 글로벌 협업 툴 시장의 전망이 약 480억 달러에 달한다는 아래 두 통계자료만 보더라도 그 규모가 얼마나 대단했는지 알 수 있습니다.
 
-<div>
-
-<figure>
 <img src="./Images/01.png" width=500 />
-<figcaption> 출처 : <a href="https://platum.kr/archives/151840"> 모바일 협업 툴 시장 ‘531%’ 성장…압도적 1위는 ‘줌’ </a> </figcaption>
 
-</figure>
+출처 : [모바일 협업 툴 시장 ‘531%’ 성장…압도적 1위는 ‘줌’](https://platum.kr/archives/151840)
 
-<figure>
 <img src="./Images/02.png" width=500 />
-<figcaption> 출처 : <a href="https://www.idc.com/getdoc.jsp?containerId=US48061821"> Worldwide Collaborative Applications Forecast, 2021–2025 </a> </figcaption>
 
-</figure>
-
-</div>
+출처 : [Worldwide Collaborative Applications Forecast, 2021–2025](https://www.idc.com/getdoc.jsp?containerId=US48061821)
 
 이처럼 다시는 코로나 이전으로 돌아갈 수 없는, 협업 툴 시대의 호황을 맞이하고 있는 지금 시대에 소외받고 있는 사람들은 과연 누구일까요?
 
@@ -77,23 +69,13 @@
 
 하지만 아래 두 인터뷰 결과를 보면 청각장애인 분들이 사용하는 언어인 수어와 한국어는 완전히 다르다고 할 수 있으며 이런 상황 속에서 많은 청각장애인 분들이 비장애인 분들과 함께 일하면서 수어를 사용할 수 없는 상황에 많은 어려움을 겪는다는 걸 알 수 있습니다.
 
-<div>
-
-<figure>
-
 <img src="./Images/03.png" width=500 />
-<figcaption> 출처 : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09364756"> 청각장애인 고용차별 및 고용개선방안 실태조사 수어환경을 중심으로 </a> </figcaption>
 
-</figure>
-
-<figure>
+출처 : [청각장애인 고용차별 및 고용개선방안 실태조사 수어환경을 중심으로](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09364756)
 
 <img src="./Images/04.png" width=500 />
-<figcaption> 출처 : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09364756"> 청각장애인 고용차별 및 고용개선방안 실태조사 수어환경을 중심으로 </a> </figcaption>
 
-</figure>
-
-</div>
+출처 : [청각장애인 고용차별 및 고용개선방안 실태조사 수어환경을 중심으로](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09364756)
 
 기존에도 부족한 수어 통역사와 사회적 인식으로 인해 어려움을 겪던 청각장애인 분들은 협업 툴의 호황 속에서 모순적이게도 점점 더 어려운 상황에 처하게 되었습니다.
 
@@ -130,11 +112,7 @@
 
 예를 들어 아래 번역하기 부분을 보면 메세지를 전송하고자 하는 플랫폼을 아이콘으로 대체하였으며 카메라 전원이나 번역된 메세지 새로 생성 등 많은 부분을 아이콘으로 대체한 것을 알 수 있습니다.
 
-<figure>
-
 <img src="./Images/05.png" width=500 />
-
-</figure>
 
 #### 프론트엔드
 
@@ -176,11 +154,7 @@
 
 특히 Slack API를 활용한 메세지 전송의 경우 오번역된 경우 등에 대한 송수신 사용자 양방향 인지를 위해 핸즈오프 서비스를 통해 전송된 메세지임을 알려주는 헤더를 추가했습니다.
 
-<figure>
-
 <img src="./Images/06.png" width=500 />
-
-</figure>
 
 ### To do :white_check_mark:
 
