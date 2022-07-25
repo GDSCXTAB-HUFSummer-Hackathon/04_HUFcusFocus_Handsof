@@ -91,6 +91,10 @@
 
 <img src="./Images/07.gif" width=500 />
 
+전체 서비스 시연 영상은 아래와 같습니다.
+
+https://user-images.githubusercontent.com/63915557/180732739-51b61461-0486-43c4-81cf-cd3845ce5cda.mp4
+
 #### 구현 기능
 
 구현된 기능은 아래와 같습니다.
